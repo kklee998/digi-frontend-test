@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Netlify URL
-https://digi-frontend-test-kk.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5824f78-0866-469e-900e-8f74321fa624/deploy-status)](https://app.netlify.com/sites/digi-frontend-test-kk/deploys)
 
 ## Available Scripts
 
